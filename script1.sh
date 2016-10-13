@@ -21,3 +21,6 @@ echo
 
 echo "I'm giving you back your prompt now."
 echo
+
+echo "making new folder"
+mkdir newFolder
